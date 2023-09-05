@@ -1,4 +1,8 @@
-workspace = { }
+[workspace]
+members = [
+  "tauri-bundler",
+  "tauri-utils",
+]
 
 [package]
 name = "tauri-bundler"
